@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="373b95fd-12fc-4a5b-a310-6d94d93f1ccb" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/OCT/Task_09102024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OCT/Lab001.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -47,13 +49,81 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Operator_Practics3.executor": "Run",
+    "Application.Operators_Practics1.executor": "Run",
+    "Application.Task_03102024.executor": "Run",
+    "Application.Task_04102024.executor": "Run",
     "Application.Task_09102024.executor": "Run",
+    "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Nikita/IdeaProjects/BJavaPrograms/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Operator_Practics3">
+    <configuration name="Operator_Practics3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Operator_Practics3" />
+      <module name="BJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operators_Practics1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Operators_Practics1" />
+      <module name="BJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_03102024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Task_03102024" />
+      <module name="BJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_04102024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Task_04102024" />
+      <module name="BJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Operator_Practics3" />
+        <item itemvalue="Application.Operators_Practics1" />
+        <item itemvalue="Application.Task_03102024" />
+        <item itemvalue="Application.Task_04102024" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731230533555</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My files">
+      <option name="closed" value="true" />
+      <created>1731772969286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731772969286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
