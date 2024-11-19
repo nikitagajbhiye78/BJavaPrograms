@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="373b95fd-12fc-4a5b-a310-6d94d93f1ccb" name="Changes" comment="My files" />
+    <list default="true" id="373b95fd-12fc-4a5b-a310-6d94d93f1ccb" name="Changes" comment="My files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/Operator_Practics3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Operator_Practics3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/Operators_Practics1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Arithmatic_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/Operators_Practics2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Relational_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/typecasting/Lab057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/typecasting/Lab057.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +51,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ex_01.executor": "Run",
+    "Application.Ex_02.executor": "Run",
+    "Application.Ex_03.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab60.executor": "Run",
+    "Application.Lab61.executor": "Run",
+    "Application.Lab62.executor": "Run",
+    "Application.Lab63.executor": "Run",
+    "Application.Lab64.executor": "Run",
+    "Application.Lab65.executor": "Run",
+    "Application.Lab66.executor": "Run",
+    "Application.Lab67.executor": "Run",
+    "Application.Lab68.executor": "Run",
+    "Application.Lab69.executor": "Run",
     "Application.Operator_Practics3.executor": "Run",
     "Application.Operators_Practics1.executor": "Run",
+    "Application.Task2_15102024.executor": "Run",
+    "Application.Task3_15102024.executor": "Run",
     "Application.Task_03102024.executor": "Run",
     "Application.Task_04102024.executor": "Run",
     "Application.Task_09102024.executor": "Run",
+    "Application.Task_15102024.executor": "Run",
     "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -58,13 +85,13 @@
     "onboarding.tips.debug.path": "C:/Users/Nikita/IdeaProjects/BJavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Operator_Practics3">
-    <configuration name="Operator_Practics3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.Operator_Practics3" />
+  <component name="RunManager" selected="Application.Lab64">
+    <configuration name="Ex_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Ternary_Operators.Ex_01" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.*" />
+          <option name="PATTERN" value="OCT.Ternary_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators_Practics1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.Operators_Practics1" />
+    <configuration name="Ex_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Ternary_Operators.Ex_02" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.*" />
+          <option name="PATTERN" value="OCT.Ternary_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_03102024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.Task_03102024" />
+    <configuration name="Ex_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Ternary_Operators.Ex_03" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.*" />
+          <option name="PATTERN" value="OCT.Ternary_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_04102024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.Task_04102024" />
+    <configuration name="Lab60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Ternary_Operators.Lab60" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.*" />
+          <option name="PATTERN" value="OCT.Ternary_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Increment_Operators.Lab64" />
+      <module name="BJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT.Increment_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,10 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operator_Practics3" />
-        <item itemvalue="Application.Operators_Practics1" />
-        <item itemvalue="Application.Task_03102024" />
-        <item itemvalue="Application.Task_04102024" />
+        <item itemvalue="Application.Lab64" />
+        <item itemvalue="Application.Ex_03" />
+        <item itemvalue="Application.Lab60" />
+        <item itemvalue="Application.Ex_02" />
+        <item itemvalue="Application.Ex_01" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731934260446</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="My files">
+      <option name="closed" value="true" />
+      <created>1731934443717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731934443717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

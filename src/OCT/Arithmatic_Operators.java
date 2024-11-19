@@ -1,6 +1,6 @@
 package OCT;
 
-public class Operators_Practics1 {
+public class Arithmatic_Operators {
     public static void main(String[] args) {
 
         // Arithmetic Operators

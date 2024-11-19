@@ -1,6 +1,6 @@
 package OCT;
 
-public class Operators_Practics2 {
+public class Relational_Operators {
     {
     // Relational Operators
     int n = 90;

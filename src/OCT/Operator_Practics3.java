@@ -16,7 +16,7 @@ public class Operator_Practics3 {
         System.out.println('A'== b1);
         // it will behave as 65==66, output will be "False"
 
-        short i=30;
+        short i = 30;
         char j= 'B';
         System.out.println(i+j); // if we add + operator, concantination weill done 30+66
 
