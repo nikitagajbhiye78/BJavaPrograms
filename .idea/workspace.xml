@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="373b95fd-12fc-4a5b-a310-6d94d93f1ccb" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/OCT/if_loop_Condition/ex4_if_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT/do_while_loop/ex_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OCT/Task3_15102024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Task3_15102024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/Task1_16102024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Task1_16102024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/Task1_17102024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Task1_17102024.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OCT/Ternary_Operators/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Ternary_Operators/Ex_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/if_loop_Condition/ex4_if_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/if_loop_Condition/ex4_if_loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nikitagajbhiye78"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nikitagajbhiye78&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nikitagajbhiye78/BJavaPrograms.git",
-    "accountId": "265acfbc-be53-42b9-ae8b-029b76b736a6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nikitagajbhiye78/BJavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;265acfbc-be53-42b9-ae8b-029b76b736a6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2obxZbg8Iv3OO0MU3Mu1j4oHclb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,9 +53,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Argument_Console.executor": "Run",
+    "Application.CharAt_funtion.executor": "Run",
+    "Application.Contains_function.executor": "Run",
     "Application.Ex_01.executor": "Run",
     "Application.Ex_02.executor": "Run",
     "Application.Ex_03.executor": "Run",
+    "Application.Index_function.executor": "Run",
     "Application.Lab058.executor": "Run",
     "Application.Lab059.executor": "Run",
     "Application.Lab060.executor": "Run",
@@ -70,24 +75,53 @@
     "Application.Lab68.executor": "Run",
     "Application.Lab69.executor": "Run",
     "Application.Lab70.executor": "Run",
+    "Application.LastIndex_function.executor": "Run",
     "Application.Nested_Ternary.executor": "Run",
+    "Application.OCT.For_loop.ex_01.executor": "Run",
+    "Application.OCT.For_loop.ex_02.executor": "Run",
+    "Application.OCT.For_loop.ex_03.executor": "Run",
+    "Application.OCT.For_loop.ex_05.executor": "Run",
+    "Application.OCT.While_loop.ex_04.executor": "Run",
     "Application.Operator_Practics3.executor": "Run",
     "Application.Operators_Practics1.executor": "Run",
+    "Application.Replace_function.executor": "Run",
     "Application.ScannerClass.executor": "Run",
     "Application.Task1_16102024.executor": "Run",
     "Application.Task1_17102024.executor": "Run",
+    "Application.Task1_18102024.executor": "Run",
+    "Application.Task1_22102024.executor": "Run",
     "Application.Task2_15102024.executor": "Run",
     "Application.Task2_16102024.executor": "Debug",
+    "Application.Task2_17102024.executor": "Run",
+    "Application.Task2_18102024.executor": "Run",
     "Application.Task3_15102024.executor": "Run",
     "Application.Task_03102024.executor": "Run",
     "Application.Task_04102024.executor": "Run",
     "Application.Task_09102024.executor": "Run",
     "Application.Task_15102024.executor": "Run",
+    "Application.Task_23102024.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ex1_if_loop.executor": "Debug",
     "Application.ex3_if_loop.executor": "Run",
     "Application.ex4_if_loop.executor": "Run",
+    "Application.ex_01.executor": "Run",
+    "Application.ex_02.executor": "Run",
+    "Application.ex_03.executor": "Run",
+    "Application.ex_04.executor": "Run",
+    "Application.ex_05.executor": "Run",
+    "Application.ex_06.executor": "Run",
+    "Application.ex_07.executor": "Run",
+    "Application.ex_09.executor": "Run",
+    "Application.ex_10.executor": "Debug",
     "Application.if_loopBasic.executor": "Run",
+    "Application.lab01.executor": "Run",
+    "Application.lab02.executor": "Run",
+    "Application.lab03.executor": "Run",
+    "Application.lab03_String_created.executor": "Run",
+    "Application.lab04.executor": "Run",
+    "Application.replaceAll_function.executor": "Run",
+    "Application.startsWith_endsWith_function.executor": "Run",
+    "Application.trim_function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -95,13 +129,13 @@
     "onboarding.tips.debug.path": "C:/Users/Nikita/IdeaProjects/BJavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task1_17102024">
-    <configuration name="Task1_17102024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.typecasting.Task1_17102024" />
+  <component name="RunManager" selected="Application.replaceAll_function">
+    <configuration name="Contains_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.Contains_function" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.typecasting.*" />
+          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex1_if_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.if_loop_Condition.ex1_if_loop" />
+    <configuration name="LastIndex_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.LastIndex_function" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.if_loop_Condition.*" />
+          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex3_if_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.if_loop_Condition.ex3_if_loop" />
+    <configuration name="Replace_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.Replace_function" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.if_loop_Condition.*" />
+          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +169,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex4_if_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.if_loop_Condition.ex4_if_loop" />
+    <configuration name="ex_04" type="Application" factoryName="Application">
+      <module name="BJavaPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="30" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="replaceAll_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.replaceAll_function" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.if_loop_Condition.*" />
+          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="if_loopBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.if_loop_Condition.if_loopBasic" />
+    <configuration name="startsWith_endsWith_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.startsWith_endsWith_function" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.if_loop_Condition.*" />
+          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +203,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task1_17102024" />
-      <item itemvalue="Application.ex1_if_loop" />
-      <item itemvalue="Application.ex3_if_loop" />
-      <item itemvalue="Application.ex4_if_loop" />
-      <item itemvalue="Application.if_loopBasic" />
+      <item itemvalue="Application.ex_04" />
+      <item itemvalue="Application.Contains_function" />
+      <item itemvalue="Application.LastIndex_function" />
+      <item itemvalue="Application.Replace_function" />
+      <item itemvalue="Application.replaceAll_function" />
+      <item itemvalue="Application.startsWith_endsWith_function" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1_17102024" />
-        <item itemvalue="Application.ex4_if_loop" />
-        <item itemvalue="Application.ex3_if_loop" />
-        <item itemvalue="Application.ex1_if_loop" />
-        <item itemvalue="Application.if_loopBasic" />
+        <item itemvalue="Application.replaceAll_function" />
+        <item itemvalue="Application.startsWith_endsWith_function" />
+        <item itemvalue="Application.Replace_function" />
+        <item itemvalue="Application.LastIndex_function" />
+        <item itemvalue="Application.Contains_function" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732027981039</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="My files">
+      <option name="closed" value="true" />
+      <created>1732198214301</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732198214301</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,14 +305,10 @@
           <line>12</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/OCT/Increment_Operators/Lab62.java</url>
-          <line>3</line>
-          <properties class="OCT.Increment_Operators.Lab62" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="5" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OCT/Functions_examples/lab03.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/OCT/if_loop_Condition/ex1_if_loop.java</url>
@@ -273,6 +319,10 @@
           </properties>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

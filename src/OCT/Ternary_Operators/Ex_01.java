@@ -1,6 +1,6 @@
 package OCT.Ternary_Operators;
 
-public class Ex_01 {
+public class  Ex_01 {
     public static void main(String[] args) {
 
         // Find smallest numbers

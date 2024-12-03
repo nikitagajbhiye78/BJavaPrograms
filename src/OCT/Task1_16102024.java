@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task1_16102024 {
     public static void main(String[] args) {
 
-        // Take a user input name, age, salary and print then at end
+        // Take a user input name, age, salary and print then at end using scanner class
 
         Scanner Sc = new Scanner(System.in);
         System.out.println("Enter the name");

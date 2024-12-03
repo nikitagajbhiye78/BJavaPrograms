@@ -10,6 +10,7 @@ public class ex4_if_loop {
         System.out.println("Enter the Num1");
         int num2 = SC.nextInt();
         System.out.println("Enter the Num2");
+
         // Condition - 2 inputs
         // Rough logic num1>num2 or num2>num1 or num1==num2
 
