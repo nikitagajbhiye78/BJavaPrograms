@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="373b95fd-12fc-4a5b-a310-6d94d93f1ccb" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/OCT/do_while_loop/ex_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT/Array/Array_Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCT/Array/lab01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OCT/Task1_16102024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Task1_16102024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OCT/Task1_17102024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Task1_17102024.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OCT/Ternary_Operators/Ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/Ternary_Operators/Ex_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OCT/if_loop_Condition/ex4_if_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/if_loop_Condition/ex4_if_loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/SubString_StringFunctions/replaceAll_function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/SubString_StringFunctions/replaceAll_function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OCT/SubString_StringFunctions/trim_function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCT/SubString_StringFunctions/trim_function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Argument_Console.executor": "Run",
+    "Application.Array_Foreach.executor": "Run",
+    "Application.Array_iterate.executor": "Run",
     "Application.CharAt_funtion.executor": "Run",
     "Application.Contains_function.executor": "Run",
     "Application.Ex_01.executor": "Run",
@@ -85,7 +86,10 @@
     "Application.Operator_Practics3.executor": "Run",
     "Application.Operators_Practics1.executor": "Run",
     "Application.Replace_function.executor": "Run",
+    "Application.Reverse_2DArray.executor": "Run",
+    "Application.Right_Triangle_2DArray.executor": "Run",
     "Application.ScannerClass.executor": "Run",
+    "Application.Taking_UserInput.executor": "Run",
     "Application.Task1_16102024.executor": "Run",
     "Application.Task1_17102024.executor": "Run",
     "Application.Task1_18102024.executor": "Run",
@@ -100,6 +104,7 @@
     "Application.Task_09102024.executor": "Run",
     "Application.Task_15102024.executor": "Run",
     "Application.Task_23102024.executor": "Run",
+    "Application.Task_28102024.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ex1_if_loop.executor": "Debug",
     "Application.ex3_if_loop.executor": "Run",
@@ -113,6 +118,9 @@
     "Application.ex_07.executor": "Run",
     "Application.ex_09.executor": "Run",
     "Application.ex_10.executor": "Debug",
+    "Application.ex_2D_Array.executor": "Run",
+    "Application.findMaximumValue_Array.executor": "Run",
+    "Application.findMinimumValue_Array.executor": "Run",
     "Application.if_loopBasic.executor": "Run",
     "Application.lab01.executor": "Run",
     "Application.lab02.executor": "Run",
@@ -129,13 +137,13 @@
     "onboarding.tips.debug.path": "C:/Users/Nikita/IdeaProjects/BJavaPrograms/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.replaceAll_function">
-    <configuration name="Contains_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.Contains_function" />
+  <component name="RunManager" selected="Application.Reverse_2DArray">
+    <configuration name="Array_Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Array.Array_Foreach" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
+          <option name="PATTERN" value="OCT.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastIndex_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.LastIndex_function" />
+    <configuration name="Reverse_2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Array.Reverse_2DArray" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
+          <option name="PATTERN" value="OCT.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +164,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.Replace_function" />
+    <configuration name="Right_Triangle_2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Array.Right_Triangle_2DArray" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
+          <option name="PATTERN" value="OCT.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Taking_UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Array.Taking_UserInput" />
+      <module name="BJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OCT.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,25 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="replaceAll_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.replaceAll_function" />
+    <configuration name="ex_2D_Array_iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OCT.Array.ex_2D_Array_iterate" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="startsWith_endsWith_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OCT.SubString_StringFunctions.startsWith_endsWith_function" />
-      <module name="BJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OCT.SubString_StringFunctions.*" />
+          <option name="PATTERN" value="OCT.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,19 +212,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ex_04" />
-      <item itemvalue="Application.Contains_function" />
-      <item itemvalue="Application.LastIndex_function" />
-      <item itemvalue="Application.Replace_function" />
-      <item itemvalue="Application.replaceAll_function" />
-      <item itemvalue="Application.startsWith_endsWith_function" />
+      <item itemvalue="Application.Array_Foreach" />
+      <item itemvalue="Application.Reverse_2DArray" />
+      <item itemvalue="Application.Right_Triangle_2DArray" />
+      <item itemvalue="Application.Taking_UserInput" />
+      <item itemvalue="Application.ex_2D_Array_iterate" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.replaceAll_function" />
-        <item itemvalue="Application.startsWith_endsWith_function" />
-        <item itemvalue="Application.Replace_function" />
-        <item itemvalue="Application.LastIndex_function" />
-        <item itemvalue="Application.Contains_function" />
+        <item itemvalue="Application.Reverse_2DArray" />
+        <item itemvalue="Application.Right_Triangle_2DArray" />
+        <item itemvalue="Application.ex_2D_Array_iterate" />
+        <item itemvalue="Application.Array_Foreach" />
+        <item itemvalue="Application.Taking_UserInput" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732198214301</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="My files">
+      <option name="closed" value="true" />
+      <created>1733213078708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733213078723</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

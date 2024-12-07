@@ -5,7 +5,7 @@ public class trim_function {
 
         // Trim is used to removed spaces
 
-        String S1 = "Nikita";
+        String S1 = "Nikit a";
         System.out.println(S1.trim());
     }
 }
