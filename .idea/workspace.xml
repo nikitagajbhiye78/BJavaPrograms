@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="373b95fd-12fc-4a5b-a310-6d94d93f1ccb" name="Changes" comment="My files">
-      <change afterPath="$PROJECT_DIR$/src/Nov_OOPs_Concepts/OOPs_SingleInheritance/Example1/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov_OOPs_Concepts/OOPs_SingleInheritance/Example1/father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov_OOPs_Concepts/OOPs_SingleInheritance/Example1/lab01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nov_OOPs_Concepts/Parameterised_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nov_OOPs_Concepts/Parameterised_Constructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,7 @@
       <list>
         <option value="module-info" />
         <option value="Kotlin Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -56,15 +55,20 @@
     "Application.CharAt_funtion.executor": "Run",
     "Application.Constructor.executor": "Run",
     "Application.Contains_function.executor": "Run",
+    "Application.EX_SIB_IIB_161.executor": "Run",
+    "Application.Enum_Ex1.executor": "Run",
     "Application.Ex_01.executor": "Run",
     "Application.Ex_02.executor": "Run",
     "Application.Ex_03.executor": "Run",
+    "Application.Ex_160.executor": "Run",
+    "Application.Ex_162.executor": "Run",
     "Application.Index_function.executor": "Run",
     "Application.Lab058.executor": "Run",
     "Application.Lab059.executor": "Run",
     "Application.Lab060.executor": "Run",
     "Application.Lab061.executor": "Run",
     "Application.Lab062.executor": "Run",
+    "Application.Lab177_HowToHandleException.executor": "Run",
     "Application.Lab60.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Lab62.executor": "Run",
@@ -76,6 +80,7 @@
     "Application.Lab68.executor": "Run",
     "Application.Lab69.executor": "Run",
     "Application.Lab70.executor": "Run",
+    "Application.Labex155.executor": "Run",
     "Application.LastIndex_function.executor": "Run",
     "Application.MainMethod.executor": "Run",
     "Application.Nested_Ternary.executor": "Run",
@@ -106,6 +111,7 @@
     "Application.Task_04102024.executor": "Run",
     "Application.Task_09102024.executor": "Run",
     "Application.Task_11052024.executor": "Run",
+    "Application.Task_11142024_IIB_SIB.executor": "Run",
     "Application.Task_15102024.executor": "Run",
     "Application.Task_23102024.executor": "Run",
     "Application.Task_28102024.executor": "Run",
@@ -132,6 +138,11 @@
     "Application.lab03.executor": "Run",
     "Application.lab03_String_created.executor": "Run",
     "Application.lab04.executor": "Run",
+    "Application.lab156.executor": "Run",
+    "Application.lab157.executor": "Run",
+    "Application.lab175.executor": "Run",
+    "Application.lab177.executor": "Run",
+    "Application.lab178_Exception_handle_Part2.executor": "Run",
     "Application.python.executor": "Run",
     "Application.replaceAll_function.executor": "Run",
     "Application.startsWith_endsWith_function.executor": "Run",
@@ -149,13 +160,13 @@
       <recent name="C:\Users\Nikita\IdeaProjects\BJavaPrograms\src\Nov_OOPs_Concepts\OOPs_SingleInheritance\Example1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Nov_OOPs_Concepts.Task_11112024.MainMethod">
-    <configuration name="Ex_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.Encapsulations.Ex_01" />
+  <component name="RunManager" selected="Application.lab178_Exception_handle_Part2">
+    <configuration name="Lab177_HowToHandleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.Lab177_HowToHandleException" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov_OOPs_Concepts.Encapsulations.*" />
+          <option name="PATTERN" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,38 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.OOPs_SingleInheritance.RealExample.MainMethod" />
+    <configuration name="Task_11142024_IIB_SIB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.Task_11142024_IIB_SIB" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov_OOPs_Concepts.OOPs_SingleInheritance.RealExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Nov_OOPs_Concepts.OOPs_SingleInheritance.MultilevelInheritance.MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.OOPs_SingleInheritance.MultilevelInheritance.MainMethod" />
-      <module name="BJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Nov_OOPs_Concepts.OOPs_SingleInheritance.MultilevelInheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Nov_OOPs_Concepts.Task_11112024.MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.Task_11112024.MainMethod" />
-      <module name="BJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Nov_OOPs_Concepts.Task_11112024.*" />
+          <option name="PATTERN" value="Nov_OOPs_Concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +194,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab01MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.RealEx.lab01MainMethod" />
+    <configuration name="lab175_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.lab175_Example" />
+      <module name="BJavaPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab177" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.lab177" />
       <module name="BJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Nov_OOPs_Concepts.RealEx.*" />
+          <option name="PATTERN" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab178_Exception_handle_Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.lab178_Exception_handle_Part2" />
+      <module name="BJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov_OOPs_Concepts.Wrapper_Exception_Problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,19 +236,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ex_04" />
-      <item itemvalue="Application.Nov_OOPs_Concepts.Task_11112024.MainMethod" />
-      <item itemvalue="Application.lab01MainMethod" />
-      <item itemvalue="Application.Ex_01" />
-      <item itemvalue="Application.MainMethod" />
-      <item itemvalue="Application.Nov_OOPs_Concepts.OOPs_SingleInheritance.MultilevelInheritance.MainMethod" />
+      <item itemvalue="Application.Lab177_HowToHandleException" />
+      <item itemvalue="Application.lab177" />
+      <item itemvalue="Application.lab178_Exception_handle_Part2" />
+      <item itemvalue="Application.Task_11142024_IIB_SIB" />
+      <item itemvalue="Application.lab175_Example" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Nov_OOPs_Concepts.Task_11112024.MainMethod" />
-        <item itemvalue="Application.lab01MainMethod" />
-        <item itemvalue="Application.Ex_01" />
-        <item itemvalue="Application.Nov_OOPs_Concepts.OOPs_SingleInheritance.MultilevelInheritance.MainMethod" />
-        <item itemvalue="Application.MainMethod" />
+        <item itemvalue="Application.lab178_Exception_handle_Part2" />
+        <item itemvalue="Application.Lab177_HowToHandleException" />
+        <item itemvalue="Application.lab177" />
+        <item itemvalue="Application.lab175_Example" />
+        <item itemvalue="Application.Task_11142024_IIB_SIB" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733558880386</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="My files">
+      <option name="closed" value="true" />
+      <created>1735369422481</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735369422481</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -345,6 +365,11 @@
           <url>file://$PROJECT_DIR$/src/OCT/Functions_examples/lab03.java</url>
           <line>20</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Nov_OOPs_Concepts/SuperKeywords/Labex155.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/OCT/if_loop_Condition/ex1_if_loop.java</url>
